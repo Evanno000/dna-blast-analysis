@@ -99,5 +99,6 @@ It provided practical experience in accessing biological databases, conducting s
 
 ---
 
-**Author:** Bioinformatics Portfolio Project  
+**Author:** Evans Kioko
+**GitHub:** [@Evanno000](https://github.com/Evanno000)
 **Field:** Bioinformatics and Molecular Biology
