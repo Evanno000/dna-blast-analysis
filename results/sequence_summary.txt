@@ -1,0 +1,16 @@
+QUA1 DNA SEQUENCE ANALYSIS
+==========================
+
+FASTA ID: NM_113418.5
+Description: NM_113418.5 Arabidopsis thaliana Nucleotide-diphospho-sugar transferases superfamily protein (QUA1), mRNA
+
+Sequence length: 2290 bp
+
+Nucleotide counts:
+A: 681
+T: 691
+G: 502
+C: 416
+
+Ambiguous bases: 0
+GC content: 40.09%
